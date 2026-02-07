@@ -4,7 +4,7 @@
 
 A Java-based Bank Management System desktop application developed using Java Swing and MySQL. This project simulates real-world banking operations through a simple and user-friendly graphical interface.
 
-Features
+**Features**
 
 User Signup and Login using Card Number & PIN
 
